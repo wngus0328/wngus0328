@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Introducing
+덕성여자대학교 디지털소프트웨어공학부 25학번<br><br>
+🦁덕성멋사 13기 아기사자 - Frontend<br>
+<br>
+
+## Stacks
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wngus0328&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngus0328&layout=compact)
