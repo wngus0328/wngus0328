@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Introducing
 덕성여자대학교 디지털소프트웨어공학부 25학번<br><br>
-🦁덕성멋사 13기 아기사자 - Frontend<br>
+🦁덕성멋사 14기 아기사자 - Frontend<br>
 <br>
 
 ## Stacks
