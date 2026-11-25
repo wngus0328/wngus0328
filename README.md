@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B500&center=true&width=500&lines=Frontend+Developer+in+the+making;덕성멋사+14기+아기사자+🦁;Learning+by+building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=500&lines=Frontend+Developer+in+the+making;Duksung+Likelion+14th;Learning+by+building" />
 </p>
 
 ---
